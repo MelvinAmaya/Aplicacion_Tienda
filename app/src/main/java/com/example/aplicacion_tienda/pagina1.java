@@ -27,7 +27,7 @@ import java.nio.charset.StandardCharsets;
 public class pagina1 extends AppCompatActivity {
     EditText nombre,direccion,pedido;
     Button enviar,limpiar;
-    
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
